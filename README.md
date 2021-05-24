@@ -1,2 +1,2 @@
 
-# kickstarter-analysis  Sheshe
+# kickstarter-analysis  
